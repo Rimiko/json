@@ -1,0 +1,22 @@
+
+{
+    "name": "Rimiko",
+    "age": "22",
+    "gender": "female",
+    "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        {
+            "PHP": [
+                "オブジェクト指向",
+                "JSON/API"
+            ]
+        },
+        "MySQL"
+    ],
+    "hobby":[
+        "piano",
+        "violin",
+        "muai-thay"]
+}
